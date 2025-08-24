@@ -39,6 +39,8 @@ useEffect(() => {
 
   return (
     <>
+
+      <div className="flex justify-center items-center h-screen">
      
       <div className="bg-color w-full max-w-md mx-auto shadow-md rounded-lg px-4 my-8 text-white p-5">
 
@@ -99,7 +101,7 @@ useEffect(() => {
 
       </div>
 
-      
+      </div>
     </>
   )
 }
